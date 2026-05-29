@@ -1,15 +1,7 @@
 # UFC Fighter Comparator — Versão 1
 
-Projeto pronto para GitHub Pages, separado em HTML, CSS, JS e JSON.
 
-## Como publicar
 
-1. Envie todos estes arquivos para um repositório no GitHub.
-2. Renomeie nada: mantenha `index.html` na raiz.
-3. Vá em **Settings → Pages**.
-4. Em **Build and deployment**, selecione **Deploy from a branch**.
-5. Escolha a branch `main` e a pasta `/root`.
-6. Abra o link gerado pelo GitHub Pages.
 
 ## Estrutura
 
